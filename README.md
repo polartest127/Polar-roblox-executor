@@ -1,0 +1,4 @@
+.bat for setup 
+
+
+---READ---
